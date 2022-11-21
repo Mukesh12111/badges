@@ -11,9 +11,11 @@ int main(){
  
    int t; cin>>t;
    while(t--){
-      
-      
-        cout<<"farooq khan\n";
+        
+	   int n;
+	   cin>>n;
+	   
+	   
 	  
      }
 }
