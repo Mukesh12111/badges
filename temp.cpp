@@ -12,13 +12,17 @@ int main(){
    int t; cin>>t;
    while(t--){
         
-	   int n;
-	   cin>>n;
+// 	   int n;
+// 	   cin>>n;
 	   
-	   vector<int>v(n);
+// 	   vector<int>v(n);
 	   
-	   for(int i=0;i<n;i++) cin>>v[i];
-	   for(auto t:v) cout<<t<<" ";
+// 	   for(int i=0;i<n;i++) cin>>v[i];
+// 	   for(auto t:v) cout<<t<<" ";
+	   
+	   
+	   string s;
+	   getline(cin,s); cout<<s;
 	  
      }
 }
